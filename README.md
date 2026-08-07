@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻> I'm a student doing my B.Sc on Computer Science<br>📝> I'm currently learning programing languages like C, Python, Java...<br>🌐> I'm also in Frontend Developing
+💻> I'm a student doing my B.Sc on Computer Science<br>📝> I'm currently learning programing languages like C++, Python, Java...<br>🌐> I'm also in Frontend Developing
 
 
 ## 🌐 Socials:
