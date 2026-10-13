@@ -1,4 +1,3 @@
-
 ## ✨ Who am I?
 I'm **Rishi**, a passionate Developer who loves building awesome things.
 
