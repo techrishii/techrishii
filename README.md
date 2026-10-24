@@ -6,7 +6,7 @@ I'm **Rishi**, a passionate Developer who loves building awesome things.
 * 💻 A student doing my B.Sc on Computer Science
 * 📝 Currently learning C++, Python, Java, Kotlin
 * 💡 Curious about Hardware
-* 🛠️ Always experimenting with new tools & frameworks
+* 🛠️ Always experimenting with new tools
 
 ## 💻 Tech Stack
 
